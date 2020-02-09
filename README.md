@@ -1,5 +1,5 @@
-# hadoop
-Cloud Computing Hadoop Assignment
+# uc-cloud-computing-hadoop
+University of Cincinnati - Cloud Computing Hadoop Assignment
 
 Python + Hadoop Map Reduce Job
 
